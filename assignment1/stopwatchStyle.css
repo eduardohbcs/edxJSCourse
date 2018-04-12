@@ -1,0 +1,8 @@
+p.normal {
+    font-weight: normal;
+}
+
+p.thick {
+    font-weight: bold;
+    font-size: large;
+}
